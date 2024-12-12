@@ -1,0 +1,3 @@
+discord.py[voice]==2.2.3  # Required for Discord bot functionality with voice support
+gtts==2.3.2               # Required for text-to-speech (Google TTS)
+ffmpeg-python==0.2.0      # Optional: Useful for additional FFmpeg handling
